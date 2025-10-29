@@ -1,97 +1,93 @@
-### 👋 ¡Hola mundo! Soy Matías Garrido 💻  
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width=200/>
+<!-- Encabezado animado -->
+<h1 align="center">👋 ¡Hola, soy <span style="color:#7B68EE;">Matías Garrido</span>!</h1>
+<h3 align="center">💻 Estudiante de Ingeniería Informática | Desarrollador Web & Mobile | Valdivia, Chile</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="180" alt="GIF animado">
+</p>
 
 ---
 
-#### 💡 Estudiante de Ingeniería Informática con enfoque en desarrollo web y móvil.  
-Apasionado por la creación de soluciones tecnológicas que combinan diseño, funcionalidad y rendimiento.  
-Busco oportunidades para desarrollarme como **Ingeniero de Software**, contribuir en equipos colaborativos y seguir aprendiendo cada día.
+### 🧭 Sobre mí  
+Soy un estudiante de **Ingeniería Informática (INACAP)** con pasión por el desarrollo de software y la creación de soluciones digitales.  
+Me interesa el **desarrollo web full stack**, la **arquitectura de datos** y la **optimización del rendimiento** en aplicaciones modernas.  
+
+🧩 Me caracterizo por:  
+- Aprender rápido y de forma autónoma.  
+- Resolver problemas con lógica y diseño.  
+- Trabajar en equipo y mejorar constantemente mis proyectos.  
+
+📬 **Contacto:** [mattiasgarridoaros@gmail.com](mailto:mattiasgarridoaros@gmail.com)
 
 ---
 
-### 🧠 Sobre mí  
-- 🎓 **Ingeniería Informática – INACAP (2023 – Presente)**  
-- 💻 Experiencia en **desarrollo web full stack y mobile** (Next.js, React Native, Django).  
-- 🛠️ Habilidades en **bases de datos SQL y NoSQL**, diseño responsivo y optimización.  
-- 🌱 En constante aprendizaje de **tecnologías cloud y arquitectura de software**.  
-- 📍 Valdivia, Chile | 📧 mattiasgarridoaros@gmail.com  
-
----
-
-### 🧰 Tecnologías y Herramientas
+### ⚙️ Tecnologías y Herramientas  
 
 #### 💻 Lenguajes
-<table>
-<tr>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java" height="45"/>
+</p>
 
-#### ⚙️ Frameworks y Librerías
-<table>
-<tr>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></td>
-</tr>
-</table>
+#### 🧩 Frameworks y Librerías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,django,angular,nodejs" height="45"/>
+</p>
 
 #### 🗄️ Bases de Datos
-<table>
-<tr>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></td>
-<td align="center"><img height=50 src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" height="45"/>
+</p>
 
 #### 🧰 Otras herramientas
-Git | GitHub | TailwindCSS | VS Code | Node.js | Figma  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,tailwind,vscode,figma" height="45"/>
+</p>
 
 ---
 
 ### 🚀 Proyectos Destacados  
 
 #### 🟣 **AirCoding**  
-Desarrollo de un sitio web corporativo y landing page con **Shopify** y **Next.js**.  
+Creación de sitio web corporativo y landing page con **Shopify** y **Next.js**.  
 Diseño de identidad visual, estructura de servicios y contenido para redes sociales.  
 > ✨ Enfoque en rendimiento, diseño y experiencia de usuario.
 
 #### 🪑 **Muebles Lourdes**  
-Desarrollo de e-commerce funcional con **Next.js + Supabase**, catálogo digital y pagos en línea.  
-Diseño adaptable (responsive) y optimizado para SEO.  
-> 💳 Gestión de productos y experiencia de compra intuitiva.
+Desarrollo de **e-commerce** funcional para una empresa local.  
+Integración de **pagos en línea** y **catálogo digital** con Supabase.  
+> 💳 Diseño responsive y optimizado para SEO.
 
 #### 🌐 **Portafolios profesionales personalizados**  
-Sitios web a medida para distintos profesionales, destacando su identidad digital.  
-> 🧩 Implementación modular, diseño limpio y enfoque UX.
+Sitios web a medida para profesionales, resaltando su marca personal.  
+> 🧠 Implementación modular, estética limpia y enfoque UX/UI.
 
 ---
 
-### 📊 Mis estadísticas de GitHub  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZapitoLivingstone&layout=compact&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=ZapitoLivingstone&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</p>
+### 🧠 Actualmente aprendiendo
+- Arquitectura de software con **Next.js**  
+- Integración de **APIs REST / Supabase**  
+- Optimización de rendimiento front-end  
+- Pruebas unitarias y despliegue continuo  
 
 ---
 
 ### 🌐 Encuéntrame en:
-<a href="https://www.linkedin.com/in/matias-garrido-aros-147b8331b/">
-  <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ZapitoLivingstone">
-  <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:mattiasgarridoaros@gmail.com">
-  <img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matias-garrido-aros-147b8331b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ZapitoLivingstone" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  <a href="mailto:mattiasgarridoaros@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Correo"/>
+  </a>
+</p>
 
-#### ❤️ ¡Gracias por visitar mi perfil!  
-![Visitas](https://profile-counter.glitch.me/ZapitoLivingstone/count.svg)
+---
+
+<h4 align="center">💜 ¡Gracias por visitar mi perfil!</h4>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ZapitoLivingstone/count.svg" alt="Contador de visitas"/>
+</p>
