@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
+
 <!--
 **ZapitoLivingstone/ZapitoLivingstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
