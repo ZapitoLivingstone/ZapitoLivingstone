@@ -88,6 +88,3 @@ Sitios web a medida para profesionales, resaltando su marca personal.
 ---
 
 <h4 align="center">💜 ¡Gracias por visitar mi perfil!</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ZapitoLivingstone/count.svg" alt="Contador de visitas"/>
-</p>
